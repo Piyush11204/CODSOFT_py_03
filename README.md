@@ -1,6 +1,6 @@
 # Python To-Do List App
 # Overview
-This project is a (GUI) To-Do List application implemented in Python. It allows users to manage tasks, add new items, mark items as completed, and remove tasks from the list.
+This project is a To-Do List application implemented in Python its an (GUI). It allows users to manage tasks, add new items, mark items as completed, and remove tasks from the list.
 
 # Features
 Task Management: Add, view, mark as done, and delete tasks from the list.
